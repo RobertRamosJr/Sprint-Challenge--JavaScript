@@ -40,7 +40,7 @@ method: a function inside of an object
 
 3. What is closure?
 
-closure: is a function and and code block where the nested functions inside of it inherit the variables that were declared in the parent.
+closure: is a function  and code block where the nested functions inside of it inherit the variables that were declared in the parent.
 
 4. Describe the four rules of the 'this' keyword.
 
